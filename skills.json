@@ -1,0 +1,27 @@
+[
+{
+                "Skills":
+                {
+                        "Basic theory": ["What is testing?", "Bug reports", "Documentation", "Testing's types, methods and directions", "SDLC", "STLC"]},
+                        "Client-server architecture": ["Think client", "Fat client", "Two-tier architecture", "Three-tier architecture"],
+                        "HTTP": ["methods", "structure", "response codes"],
+                        "Testing API using Postman": ["JS", "autotests API"],
+                        "Server's logs": ["Diagnostic", "Reading"],
+                        "HTTP sniffing": ["Charles", "Fiddler"],
+                        "Dev Tools": ["Google Chrome", "FireFox"],
+                        "VPN": ["How it works", "Purposes", "How can be used", "Instruments' options"],
+                        "Mobile testing": ["iOS pecularities", "Android pecularities", "Guidelines"],
+                        "Environments": ["XCode", "Android Studio"],
+                        "ADB": "",
+                        "Terminal Linux": ["cp", "mkdir", "touch", "ls", "cd", "mv", "etc."],
+                        "Git bash basics": ["Scripts", "Automation"],
+                        "SQL": ["Create", "Delete", "Drop", "Insert Into", "Select", "From", "Where", "Join"],
+                        "Data base Redis": ["Installation", "Setting up", "Usage"],
+                        "Jmeter": "",
+                        "Date base Postgres": ["Installation", "Setting up", "Usage"],
+                        "Scrum": "",
+                        "Test design technics": ["Boundary-value analysis", "Equivalence partitioning", "Combinatorian technics", "Statuses", "Movings"],
+                        "Python": ["Basics", "Creation of client-server apps"]
+}
+]
+
