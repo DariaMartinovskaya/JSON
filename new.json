@@ -1,0 +1,13 @@
+{ 
+	"item_1":{
+		"Full name": "Daria Martinovskaya"
+	}
+	"item_2": {
+		"Age": "27 y.o."
+	}
+	"item_3" {
+		"Pets' number": "two"
+	}
+	"item_4" {
+		"Expected salary": "from 1000 Euro net"	}
+}
