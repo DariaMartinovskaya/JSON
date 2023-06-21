@@ -1,1 +1,16 @@
-
+[
+{
+                "Bug report":
+                {
+                        "Project name": "Web-site of online Store Litecart, http://litecart.stqa.ru",
+                        "ID": "1/2023-06-21",
+                        "Summary": "[Regional Settings] Pop up - no possibility to choose another language",
+                        "Steps to reproduce": 
+                  "Open main page. Click [Change] Button in Regional settings section in header. Select language from [Language] Listbox",
+                        "Actual result": "No other languages can be selected from the [Language] Listbox",
+                        "Expected result": "Other languages can be selected from the [Language] Listbox",
+                        "Severity": "Lowest",
+                        "Notes": "",
+                        "Attahments": ""}
+}
+]
