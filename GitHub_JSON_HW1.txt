@@ -1,21 +1,28 @@
 GIT Homework 1
 
 JSON
- 4. Создать внешний репозиторий c названием JSON: Web Git Hub > "Repositories" Tab > [New] Button > Repository Name "JSON" > Click "Add a REDMI file" > [Create repository"] Button
- 5. Клонировать репозиторий JSON на локальный компьютер: git clone "https://github.com/DariaMartinovskaya/JSON.git"
- 6. Внутри локального JSON создать файл “new.json”: touch new.json
- 7. Добавить файл под гит: git add new.json
- 8. Закоммитить файл: git commit -m new.json
- 9. Отправить файл на внешний GitHub репозиторий: git push
- 10. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON: vim new.json > i (edit mode) > {Input data} > "esc" + ":wq" + "Enter" 
- 11. Отправить изменения на внешний репозиторий: git commit -am + git push
- 12. Создать файл preferences.json: touch preferences.json
- 13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON: vim preferences.json > i (edit mode) > {Input data} > "esc" + ":wq" + "Enter"
- 14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON: touch skills.json + vim skills.json > i (edit mode) > [Input data] > "esc" + ":wq" + "Enter"
- 15. Отправить сразу 2 файла на внешний репозиторий: git add . && git commit -m "2Files" + git push
- 16. На веб интерфейсе создать файл bug_report.json: Web Git Hub > Repositories > "JSON" > Click [Add file] Button > Choose "Create new file" > Name of the file: "bug_report.json" 
- 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе: [Commit changes...] Button > [Commit changes] Button
- 18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON: Choose bug_report.json > Edit this file button 
- 19. Сделать Commit changes (сохранить) изменения на веб интерфейсе: [Commit changes...] Button > [Commit changes] Button
- 20. Синхронизировать внешний и локальный репозиторий JSON: git pull
-
+ 4. Create external repository named JSON: Web Git Hub => "Repositories" Tab => [New] Button => Repository Name 
+ "JSON" => Click "Add a REDMI file" => [Create repository"] Button
+ 5. Clone JSON repository to local computer: git clone "https://github.com/DariaMartinovskaya/JSON.git"
+ 6. Create file “new.json” inside JSON repository: touch new.json
+ 7. Add the file to git: git add new.json
+ 8. Commit the file: git commit -m new.json
+ 9. Send the file to external GitHub repository: git push
+ 10. Edit content of “new.json” file - add the information about yourself (Full name, age, amount of pets, future 
+ desired salary). To be written in JSON format: vim new.json => i (edit mode) => {Input data} => "esc" + ":wq" + 
+ "Enter" 
+ 11. Send changes to external repository: git commit -am + git push
+ 12. Create preferences.json file: touch preferences.json
+ 13. Add information about your preferences (favorite film, favorite series, favorite food, favorite season, country 
+ you would like to visit) into preferences.json file in JSON format: vim preferences.json => i (edit mode) => {Input 
+ data} => "esc" + ":wq" + "Enter"
+ 14. Create sklls.json file and add information about skills to be learnt during the course in JSON format: touch 
+ skills.json + vim skills.json => i (edit mode) => [Input data] => "esc" + ":wq" + "Enter"
+ 15. Send 2 files to external repository at the same time: git add . && git commit -m "2Files" + git push
+ 16. To create bug_report.json file on external repository: Web Git Hub => Repositories => "JSON" => Click [Add 
+ file] Button => Choose "Create new file" => Name of the file: "bug_report.json" 
+ 17. Commit changes (save) on the web interface: [Commit changes...] Button => [Commit changes] Button
+ 18. Modify bug_report.json file on the web interface, add a bug report in JSON format: Choose bug_report.json => 
+ Edit this file button 
+ 19. Commit changes (save) changes on the web interface: [Commit changes...] Button => [Commit changes] Button
+ 20. Synchronize external and local JSON repositories: git pull
